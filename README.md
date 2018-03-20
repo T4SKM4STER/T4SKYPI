@@ -6,12 +6,13 @@ This means that the process for enabling the Raspberry Pi 3 Kali Linux auto logi
 [Kali linux ARM Image](https://build.nethunter.com/nexmon-pi-builds/kali-0.1-rpi3-nexmon.img.xz)
 
 ## Installation
-1.  ``` git clone https://github.com/T4SKM4STER/T4SKYPI.git ```
-2.  ``` cd T4SKYPI ```
-3.  ``` chmod +x install.sh ```
-4.  When Ask Password Enter Your Password .
-5.	Varify Your Password.
-6.  Wouls you like to enter a view-only password (y/n)? n  [Select No]
-7.  Enjoy ...
+1.  ```   git clone https://github.com/T4SKM4STER/T4SKYPI.git   ```
+2.  ```   cd T4SKYPI   ```
+3.  ```   chmod +x install.sh   ```
+4.  ```   ./install.sh   ```
+5.  When Ask Password Enter Your Password .
+6.	Varify Your Password.
+7.  Wouls you like to enter a view-only password (y/n)? n  [Select No]
+8.  Enjoy ...
 ###  [Official Site](https://www.t4skm4ster.blogspot.com)
 	
