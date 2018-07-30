@@ -14,5 +14,5 @@ This means that the process for enabling the Raspberry Pi 3 Kali Linux auto logi
 6.	Varify Your Password.
 7.  Wouls you like to enter a view-only password (y/n)? n  [Select No]
 8.  Enjoy ...
-###  [Official Site](https://www.t4skm4ster.blogspot.com)
+###  [Official Site](https://t4skm4ster.blogspot.com/)
 	
